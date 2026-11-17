@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ca/hero-dark.svg">
-  <img src="assets/ca/hero-light.svg" width="100%" alt="Projects that don’t follow the herd. 1M+ downloads on Meulify, 8 hackathon prizes, 2nd in our track at Europe’s largest hackathon. Selected work: Kultulern (2020), Revista YOUNG (2022), Footy Tic Tac Toe (2023) and Meulify (2026), with a goat climbing to the top.">
+  <img src="assets/ca/hero-light.svg" width="100%" alt="Projectes que no segueixen el ramat. 1M+ descàrregues de Meulify, 8 premis en hackatons, 2n al nostre track de la major hackató d’Europa. Projectes destacats: Kultulern (2020), Revista YOUNG (2022), Footy Tic Tac Toe (2023) i Meulify (2026), amb una cabra que s’enfila fins al cim.">
 </picture>
 
 <br>
